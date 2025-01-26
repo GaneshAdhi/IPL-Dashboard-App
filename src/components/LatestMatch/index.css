@@ -1,0 +1,59 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.main-latest-container {
+  width: 98%;
+  color: #ffffff;
+}
+
+.latest-match-container {
+  background-color: #1e293b;
+  background-size: cover;
+  border-radius: 14px;
+  margin-top: 5px;
+}
+
+.heading-latest {
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 6px;
+}
+
+.upper-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.competing-team {
+  font-size: 18px;
+  color: #ffffff;
+  text-align: left;
+}
+
+.date-style {
+  font-size: 15px;
+  color: #ffffff;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.para-common-stlye {
+  font-size: 12px;
+  text-align: left;
+  margin-top: 5px;
+}
+
+.competing-team-logo {
+  height: 80px;
+}
+
+.down-container {
+  padding: 21px;
+}

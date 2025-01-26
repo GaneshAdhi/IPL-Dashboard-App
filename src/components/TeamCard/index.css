@@ -1,0 +1,31 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.team-small-card {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  height: 60px;
+  width: 150px;
+  background-color: #1e293b;
+  border: 3px solid #475569;
+  border-radius: 14px;
+  align-items: center;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.team-logo {
+  height: 30px;
+}
+
+.team-name {
+  font-size: 10px;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 9px;
+}
